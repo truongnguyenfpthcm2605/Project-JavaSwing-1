@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/TypeProductDAo.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/entity/Bill.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/Email.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/FastFoodDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/LikeCommentTwoDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/CommentOneDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/ListLikeComment.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/BillDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/Ximage.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/CommentTwoDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/UserDao.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/Valid.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/MoneyDao.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/LikeCommentOneDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/sql/JDBCHelper.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/CodeRandom.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/Authention.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/view/ApplicationFastFood.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/CartDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/util/FormatNumber.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/XaiChungDAO.java</file>
+            <file>file:/D:/DUAN-1/FastFood/FastFood/src/fastfood/dao/StoreDao.java</file>
+        </group>
+    </open-files>
+</project-private>
